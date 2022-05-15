@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520232125079",
+    "project_id": "my-tracker-3334c",
+    "storage_bucket": "my-tracker-3334c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520232125079:android:a6d4a4b5c400ab1e1edfd2",
+        "android_client_info": {
+          "package_name": "com.marut97.my_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520232125079-24kurvieplq6cvumksiu63ktgl370num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4TyITdWvPIiiBFXbEKU_ghTW6GsmaIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520232125079-24kurvieplq6cvumksiu63ktgl370num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
